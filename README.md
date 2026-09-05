@@ -35,7 +35,7 @@
 
 ## 🖥️ Overview
 
-**VOID-NUKE** is a Python CLI for **Discord server administration** — channel & role management, member tools, server info, and moderation helpers through a Rich terminal interface.
+**WINSTON-NUKE** is a Python CLI for **Discord server administration** — channel & role management, member tools, server info, and moderation helpers through a Rich terminal interface.
 
 **Authorized use only:** your own servers, test environments, or servers where you have admin rights and permission to run automation.
 
