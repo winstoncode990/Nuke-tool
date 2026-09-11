@@ -5,7 +5,7 @@
 
 <br>
 
-# VOID-NUKE
+# WINSTON-NUKE
 
 ### Discord server management CLI · Rich TUI · 39 modular commands
 
