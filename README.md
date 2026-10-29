@@ -9,7 +9,7 @@
 
 ### Discord server management CLI · Rich TUI · 39 modular commands
 
-**v1.0.0** · by **1s0e**
+**v1.0.0** · by **Winny**
 
 <br>
 
@@ -111,7 +111,7 @@ Enable these in the [Discord Developer Portal](https://discord.com/developers/ap
 
 <div align="center">
 
-**VOID-NUKE v1.0.0** · by 1s0e
+**WINSTON-NUKE v1.0.0** · by winny
 
 [t.me/winstoncode990](https://t.me/winston990) · [discord.gg/wizzy](https://discord.gg/wizzy) · [github.com/winstoncode990](https://github.com/winstoncode990)
 
